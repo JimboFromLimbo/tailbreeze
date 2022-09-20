@@ -1,4 +1,4 @@
-import styles from '@tailbreeze/styles/dist/components/button.module.css';
+import styles from '@tailbreeze/styles/dist/src/components/button.module.scss';
 
 export interface ButtonProps {
   /**
@@ -33,7 +33,7 @@ export default ({
 }: ButtonProps) => (
     <button
       type="button"
-      className={styles.module}
+      className={styles.button}
       style={{ backgroundColor }}
       {...props}
     >
