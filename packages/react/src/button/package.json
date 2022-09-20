@@ -1,0 +1,7 @@
+{
+  "name": "@tailbreeze/react/button",
+  "packageManager": "yarn@3.2.3",
+  "peerDependencies": {
+    "react": ">=18"
+  }
+}

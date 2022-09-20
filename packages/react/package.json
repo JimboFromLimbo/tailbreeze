@@ -1,0 +1,7 @@
+{
+  "name": "react-components",
+  "packageManager": "yarn@3.2.3",
+  "dependencies": {
+    "@tailbreeze/styles": "workspace:^"
+  }
+}
